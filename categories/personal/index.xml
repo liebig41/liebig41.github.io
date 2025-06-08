@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Personal on Your Majesty</title>
+        <link>https://liebig41.github.io/categories/personal/</link>
+        <description>Recent content in Personal on Your Majesty</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Your Majesty</copyright>
+        <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://liebig41.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CV</title>
+        <link>https://liebig41.github.io/p/cv/</link>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://liebig41.github.io/p/cv/</guid>
+        <description>&lt;font face=&#34;STFangsong&#34;&gt;
+&lt;h1 style=&#34;text-align: center;&#34;&gt;梁成鑫&lt;/h1&gt;
+&lt;div style=&#34;text-align: center; font-size: 1.1em; line-height: 1.6;&#34;&gt;
+重庆 | 2727158562@qq.com | 18883917613 | liebig41.github.io | 微信: mrleungcq13
+&lt;/div&gt;
+&lt;h2 id=&#34;教育背景&#34;&gt;教育背景
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;重庆邮电大学, 通信工程本科&lt;/strong&gt;&lt;span style=&#34;float:right;&#34;&gt;Sep 2023 - 至今&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主修课程&lt;/strong&gt;: 高等数学, 线性代数, 概率论与数理统计&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自修课程&lt;/strong&gt;: 《机器学习》(周志华),《动手学深度学习》(PyTorch版)(李沐), 机器学习与深度学习系列课程(李宏毅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;科研经历&#34;&gt;科研经历
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;基于深度学习的高光谱图像空谱超分辨率重建&lt;/strong&gt; &lt;span style=&#34;float:right;&#34;&gt;Jun 2024 - 至今&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在重庆邮电大学宋铁成教授的指导下, 我开展了关于高光谱图像空谱超分辨率重建任务中深度学习算法应用的研究&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;核心问题&lt;/strong&gt;: 对于融合超分辨率重建任务, 亟需构建可控模型提升在不同场景下的泛化性能以及解决特征融合粗粒度导致细节丢失问题,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开展工作&lt;/strong&gt;：对现有高光谱超分方法范式及相关工作进行调研(空间超分重建、光谱超分重建、空谱联合超分重建), 针对现有问题尝试提出创新点并进行相关实验&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;算法创新&lt;/strong&gt;: 针对空谱联合超分范式
+&lt;ul&gt;
+&lt;li&gt;尝试改进特征融合方式：基于U-Net改进​​动态特征融合机制&lt;/li&gt;
+&lt;li&gt;尝试添加更多串联模块: 改进注意力机制及残差模块&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;未来展望&lt;/strong&gt;: 修改代码, 在相关数据集上进行初步实验, 关注指标变化, 尝试得到论文产出&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;无人机视角下的目标检测&lt;/strong&gt; &lt;span style=&#34;float:right;&#34;&gt;Jul 2024 - 至今&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我参与重庆邮电大学杨烽副教授指导的大学生科研训练计划, 着手共同开展了无人机视角下的目标检测课题的研究&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;核心问题&lt;/strong&gt;：针对无人机视角下的目标检测中存在的目标尺度不均衡、空间分布不平衡、样本数量不均衡、类别语义不均衡及优化目标不均衡等五大不均衡核心问题展开研究&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的工作&lt;/strong&gt;: 研读相关综述、SOTA论文, 复现其中提出的方法(如Focal Loss、Equalization Loss等不平衡优化方法)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;未来展望&lt;/strong&gt;: 尝试提出创新点并开展相关实验, 提升评估指标, 尝试得到论文产出&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;针对图像分类的对抗样本攻击及防御方法研究&lt;/strong&gt; &lt;span style=&#34;float:right;&#34;&gt;Sep 2024 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我多次参与重庆邮电大学宋铁成教授课题组及其研究生刘耀康关于开展基于深度学习的图像分类对抗样本攻击及防御方法研究的课题讨论&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;核心问题&lt;/strong&gt;: 现有可验证防御方法无法应用于更复杂的现实系统、突破对抗样本白盒防御的难点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的收获&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;对对抗样本存在的原因及不同任务场景下的对抗样本攻击任务的进行有了进一步认识,&lt;/li&gt;
+&lt;li&gt;对GAN和YOLO系列模型进行了学习和上手实践&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;未来展望&lt;/strong&gt;: 尝试将对抗攻击方法加入光谱图像空谱超分辨率重建任务中, 进一步提升模型在面对不同数据的鲁棒性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ai竞赛赋能&#34;&gt;AI竞赛赋能
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;基于人工智能的闽江流域水情预报&lt;/strong&gt;   &lt;span style=&#34;float:right;&#34;&gt;2025数字中国创新大赛  16/337&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;赛题概述&lt;/strong&gt;：基于流域水文站数据, 构建时空特征并结合梯度提升树模型进行时序预测, 创新性采用滑动窗口交叉验证策略以适配时序依赖性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化方法&lt;/strong&gt;：引入EMD（​经验模态分解​​）分解目标序列​​, 分离趋势与噪声后分别建模, 通过集成学习融合子模型预测结果, 提升长期预测稳定性, RMSE显著降低&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术亮点&lt;/strong&gt;：融合时空特征工程与信号分解技术, 解决传统时序模型对非平稳水文数据的拟合偏差问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;BirdCLEF+ 2025&lt;/strong&gt;   &lt;span style=&#34;float:right;&#34;&gt;kaggle 252/1904&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;赛题概述&lt;/strong&gt;：针对鸟类叫声分类任务, 对原始音频进行重采样与分段切割以构建样本集, 通过梅尔频谱转换将音频信号转化为图像形式, 并基于类CNN架构进行模型训练, 基于初步预测结果进行一系列后处理得到最终submission&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化效果&lt;/strong&gt;：采用多种图像数据增强（如mixup、随机裁剪等）、添加多类创新模块(如Gem Pooling模块)、样本分布平衡及多标签策略、模型融合, 提升模型鲁棒性, 准确率逐步提升。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术亮点&lt;/strong&gt;：融合传统音频处理与图像分类方法, 通过梅尔频谱特征增强模型对声学特征的捕捉能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;新能源发电功率预测&lt;/strong&gt; &lt;span style=&#34;float:right;&#34;&gt;第三届世界科学智能大赛 148/1964&lt;/span&gt;
+&lt;strong&gt;NeurIPS 2024 - Lux AI Season 3&lt;/strong&gt;&lt;span style=&#34;float:right;&#34;&gt;kaggle  134/701&lt;/span&gt;
+&lt;strong&gt;Drawing with LLMs&lt;/strong&gt;&lt;span style=&#34;float:right;&#34;&gt;kaggle  434/1320&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他竞赛若干&lt;/strong&gt; (涉及强化学习、遥感图像、扩散模型、医学影像、视觉大模型等)具体目录及方案详情均收录于个人飞书文档, 详情请见: &lt;a class=&#34;link&#34; href=&#34;https://yvqwgibee13.feishu.cn/docx/KVzJdfSHwo0KSbxH6drcjYNinbb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://yvqwgibee13.feishu.cn/docx/KVzJdfSHwo0KSbxH6drcjYNinbb&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;研究兴趣&#34;&gt;研究兴趣
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;数据挖掘实践&lt;/li&gt;
+&lt;li&gt;深度学习算法应用&lt;/li&gt;
+&lt;li&gt;大模型应用&lt;/li&gt;
+&lt;li&gt;自然语言处理、计算机视觉&lt;/li&gt;
+&lt;li&gt;AI4Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;其他经历&#34;&gt;其他经历
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;通信学院AI实验室&lt;/strong&gt;&lt;span style=&#34;float:right;&#34;&gt;Jun 2024 - 至今&lt;/span&gt;
+基于对人工智能领域的浓厚兴趣, 经过答辩考核我加入了YF308实验室进行学习。在近一年的研究实践中, 得益于优秀学长学姐的榜样引领和导师的悉心指导, 我的科研创新能力与工程实践能力均得到显著提升。期间参加众多AI竞赛, 与来自全球各高校与企业选手同台竞技; 研读并复现各领域杰出论文及模型架构(包括但不限于:ResNet、Conformer、Transfomer、ViT、CLIP、GAN、Mamba、DINO、Qwen等)并尝试进行创新。目前, 我已夯实研究基础并明确学术目标, 正以全力以赴的姿态向更高的科研高峰迈进。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;开源组织项目实践学习&lt;/strong&gt;
+我积极参与Datawhale、上海人工智能研究所、MMOpenLab等开展的开源项目专题活动(如；简易RAG项目实现、书生·浦语大语言模型微调项目实现、相关竞赛top方案讲解复现教学等)、通过实战深入掌握检索增强生成、模型优化及部署等关键技术, 体验LLM微调全流程, 持续提升个人AI全栈素养。&lt;/p&gt;
+&lt;h2 id=&#34;未来规划&#34;&gt;未来规划
+&lt;/h2&gt;&lt;p&gt;我对未来的研究方向有着清晰的规划：聚焦计算机视觉领域的机器学习算法创新与理论分析, 尤其关注深度神经网络在视觉任务中的表示学习、训练动态和泛化行为。为强化理论与实践的结合, 我将通过参与国内外AI竞赛(如TIANCHI、kaggle)作为重要实践载体, 在真实场景中验证算法创新、优化模型性能, 并培养解决复杂视觉问题的工程能力。同时, 通过数学建模与可解释性研究, 系统揭示视觉模型的核心机制（如层次特征演化、多任务适应性）, 并探索如何提升其效率、鲁棒性和语义理解能力。这种&amp;quot;竞赛赋能+理论反哺&amp;quot;的研究路径, 既能保持对前沿技术趋势的敏锐度, 又能为学术研究提供可量化的实证支撑。&lt;/p&gt;
+&lt;h2 id=&#34;技能&#34;&gt;技能
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;编程语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其他&lt;/strong&gt;: scikit-learn, timm, PyTorch, NumPy, Transformers 库等与广义机器学习相关的库、LaTeX、Docker、Linux系统 服务器使用等
+&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

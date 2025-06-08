@@ -7,44 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Your Majesty</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://liebig41.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 02 Jun 2025 19:01:14 +0800</lastBuildDate><atom:link href="https://liebig41.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
         <link>https://liebig41.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 02 Jun 2025 19:01:14 +0800</pubDate>
         
         <guid>https://liebig41.github.io/categories/test/</guid>
         <description>&lt;img src="https://liebig41.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
-        <title>测试</title>
-        <link>https://liebig41.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <title>Personal</title>
+        <link>https://liebig41.github.io/categories/personal/</link>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://liebig41.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://liebig41.github.io/categories/personal/</guid>
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>https://liebig41.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>--&gt; &#34;Test&#34;</title>
+        <link>https://liebig41.github.io/categories/---test/</link>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liebig41.github.io/categories/syntax/</guid>
+        <guid>https://liebig41.github.io/categories/---test/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>https://liebig41.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>--&gt; &lt;!-- &#34;Syntax&#34;</title>
+        <link>https://liebig41.github.io/categories/------syntax/</link>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liebig41.github.io/categories/themes/</guid>
+        <guid>https://liebig41.github.io/categories/------syntax/</guid>
         <description></description>
         </item>
         <item>
-        <title>Test With Whitespaces</title>
-        <link>https://liebig41.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>&lt;!-- &#34;Test With Whitespaces&#34; --&gt;</title>
+        <link>https://liebig41.github.io/categories/---test-with-whitespaces---/</link>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liebig41.github.io/categories/test-with-whitespaces/</guid>
+        <guid>https://liebig41.github.io/categories/---test-with-whitespaces---/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>&lt;!-- &#34;Themes&#34;</title>
+        <link>https://liebig41.github.io/categories/---themes/</link>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://liebig41.github.io/categories/---themes/</guid>
         <description></description>
         </item>
         
